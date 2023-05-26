@@ -7,3 +7,7 @@
 ## Farm to 193TT
 
 --------
+
+```
+timer(pt * d(ln(ln(db / b + 1))) < 1)> 3 * tr && db > b&& dpsi + psi > min(min(costUpS(1),costUpS(2)), costUpS(3))&& ln(1 + max(1, log10(sf)) /smooth(max(1, log10(gf)),(st > tr) * ee99)) / max(1, st) <smooth(ln(1 + max(1, log10(sf)) /smooth(max(1, log10(gf)), (st > tr)* ee99)) / max(1, st), (pt > tr) * ee99)
+```
