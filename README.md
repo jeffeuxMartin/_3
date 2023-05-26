@@ -1,4 +1,3 @@
-## Highly Recommended : 130 TT + 20000 Eternities to Start EC1 (110k Eternities does help a lot for the early challenges)
 ## Farm to 110k Eternities
 
 ## EC1x5 : Recommended : 176TT , Average Time : 3~5mins
