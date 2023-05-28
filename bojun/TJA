@@ -1,0 +1,9 @@
+[1,0,{"progname":"ncdu","progver":"1.12","timestamp":1685293206},
+[{"name":"/run/user/1000/gvfs/mtp:host=%5Busb%3A001%2C021%5D/內部共用儲存空間/TJA","dev":49,"ino":11617},
+[{"name":"sample","ino":12488},
+{"name":"Bad Apple!!.tja","asize":7397,"dsize":7680,"ino":34947},
+{"name":"genre.ini","asize":68,"dsize":512,"ino":34957},
+{"name":"School Load.mp3","asize":2070151,"dsize":2070528,"ino":34962},
+{"name":"School Load.tja","asize":4062,"dsize":4096,"ino":34973},
+{"name":"Bad Apple!!.tjhiscr2","asize":436,"dsize":512,"ino":34983},
+{"name":"Bad Apple!!.mp3","asize":3046550,"dsize":3046912,"ino":34996}]]]

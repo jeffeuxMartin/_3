@@ -1,0 +1,10 @@
+[1,0,{"progname":"ncdu","progver":"1.12","timestamp":1685293206},
+[{"name":"/run/user/1000/gvfs/mtp:host=%5Busb%3A001%2C021%5D/內部共用儲存空間/qlua5","dev":49,"ino":11643},
+[{"name":"cache","ino":12467}],
+[{"name":"snippets","ino":12468},
+{"name":"QPy_WebApp","asize":1812,"dsize":2048,"ino":34987},
+{"name":"The_MIT_License","asize":1087,"dsize":1536,"ino":35000},
+{"name":"Apache_License","asize":564,"dsize":1024,"ino":35011},
+{"name":"QPy_ConsoleApp","asize":65,"dsize":512,"ino":35020},
+{"name":"QPy_SL4AApp","asize":3021,"dsize":3072,"ino":35031}],
+[{"name":"scripts","ino":12469}]]]

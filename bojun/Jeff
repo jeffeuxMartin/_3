@@ -1,0 +1,12 @@
+[1,0,{"progname":"ncdu","progver":"1.12","timestamp":1685293206},
+[{"name":"/run/user/1000/gvfs/mtp:host=%5Busb%3A001%2C021%5D/內部共用儲存空間/Jeff","dev":49,"ino":11676},
+{"name":"newsyn.py","asize":65,"dsize":512,"ino":12391},
+{"name":"fro.py","asize":4849,"dsize":5120,"ino":12392},
+{"name":"myrsa.txt","asize":1810,"dsize":2048,"ino":12393},
+{"name":"newfile2.py","asize":52,"dsize":512,"ino":12394},
+{"name":".tdck","asize":88,"dsize":512,"ino":34956},
+{"name":"newfile.py","asize":90,"dsize":512,"ino":12395},
+{"name":"fro.py~","asize":4787,"dsize":5120,"ino":12396},
+{"name":"myrsa","asize":1810,"dsize":2048,"ino":12397},
+{"name":"syntactic.py","ino":12398},
+{"name":"public.java","asize":9,"dsize":512,"ino":12399}]]

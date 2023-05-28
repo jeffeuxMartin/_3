@@ -1,0 +1,4 @@
+[1,0,{"progname":"ncdu","progver":"1.12","timestamp":1685293206},
+[{"name":"/run/user/1000/gvfs/mtp:host=%5Busb%3A001%2C021%5D/內部共用儲存空間/com.facebook.katana","dev":49,"ino":11662},
+[{"name":"fb_temp","ino":11739},
+{"name":".nomedia","asize":47,"dsize":512,"ino":34938}]]]

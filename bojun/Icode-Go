@@ -1,0 +1,9 @@
+[1,0,{"progname":"ncdu","progver":"1.12","timestamp":1685293206},
+[{"name":"/run/user/1000/gvfs/mtp:host=%5Busb%3A001%2C021%5D/內部共用儲存空間/Icode-Go","dev":49,"ino":11624},
+[{"name":"backup","ino":12385}],
+[{"name":"temp","ino":12386}],
+{"name":".tdck","asize":88,"dsize":512,"ino":34992},
+[{"name":"theme","ino":12387},
+{"name":"Code_Red_Dark.ictheme","asize":3202,"dsize":3584,"ino":35047}],
+[{"name":"source","ino":12388}],
+[{"name":"modules","ino":12389}]]]

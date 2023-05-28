@@ -1,0 +1,6 @@
+[1,0,{"progname":"ncdu","progver":"1.12","timestamp":1685293206},
+[{"name":"/run/user/1000/gvfs/mtp:host=%5Busb%3A001%2C021%5D/內部共用儲存空間/log","dev":49,"ino":11642},
+[{"name":"tencent","ino":12412},
+[{"name":"liteav","ino":34942},
+{"name":"LiteAV_C.mmap2","asize":153600,"dsize":153600,"ino":34968},
+{"name":"LiteAV_C_20200611.xlog","asize":653,"dsize":1024,"ino":34978}]]]]

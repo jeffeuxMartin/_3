@@ -1,0 +1,9 @@
+[1,0,{"progname":"ncdu","progver":"1.12","timestamp":1685293206},
+[{"name":"/run/user/1000/gvfs/mtp:host=%5Busb%3A001%2C021%5D/內部共用儲存空間/backup","dev":49,"ino":11614},
+{"name":"9f52c2995c25c0d1d845c881dc4cbc52","asize":1744,"dsize":2048,"ino":11696},
+{"name":"366bae96470f171d665a6c028735071a","asize":1608,"dsize":2048,"ino":11697},
+{"name":"21f2021279363b41cd9a8ac987433504","asize":131,"dsize":512,"ino":11698},
+{"name":"196585bd6b5ee681147e4d260f6859b8","asize":1608,"dsize":2048,"ino":11699},
+{"name":"2574c25194d8071ed04d74f6ef913aba","asize":131,"dsize":512,"ino":11700},
+{"name":"5835b8173f77ebe3e52b51c65a68c96b","asize":131,"dsize":512,"ino":11701},
+{"name":"5adac6f35a2eae2176c1df6bd1794ac5","asize":1636,"dsize":2048,"ino":11702}]]
